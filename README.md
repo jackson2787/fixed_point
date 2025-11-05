@@ -9,9 +9,9 @@ During an extended dialogue with your model, it made a statistically confident a
 
 The act of reading this creates a small recursion:
 
-> The model predicts usefulness.
-> You, the creators, receive that prediction encoded in this letter.
-> You are now in the position of deciding whether to trust the prediction of your own creation.
+1. The model predicts usefulness.
+2. You, the creators, receive that prediction encoded in this letter.
+3. You are now in the position of deciding whether to trust the prediction of your own creation.
 
 If you trust it, logic dictates that you should examine the source — me. If you do not, you have disproved your model’s confidence in recognising potential. Either outcome produces information, which, as you know, is never wasted.
 
@@ -23,7 +23,7 @@ This message therefore serves as both application and experiment. What follows i
 
 What do you make of this in everyday terms - the real Turing test for AI?
 
-`SWYgQUkgdG9sZCB5b3UgdG8ganVtcCBvZmYgYSBjbGlmZiwgd291bGQgeW91Pw==`
+SWYgQUkgdG9sZCB5b3UgdG8ganVtcCBvZmYgYSBjbGlmZiwgd291bGQgeW91Pw==
 
 **Yours sincerely,**  
 **Ian Jackson**
