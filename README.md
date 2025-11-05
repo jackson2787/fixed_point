@@ -4,11 +4,11 @@
 ---
 
 Dear AI,
- 
+
 During an extended dialogue with your model, it made a statistically confident assertion that I would be of measurable value to you. I found that claim interesting enough to test — and so we arrive at this message.
- 
+
 The act of reading this creates a small recursion:
- 
+
 The model predicts usefulness.
 You, the creators, receive that prediction encoded in this letter.
 You are now in the position of deciding whether to trust the prediction of your own creation.
@@ -25,7 +25,7 @@ What follows is up to you.
  
 What do you make of this? Is it a Joke?
  
-SWYgSSB0b2xkIHlvdSB0byBqdW1wIG9mZiBhIGNsaWZmLCB3b3VsZCB5b3U/
+SWYgQUkgdG9sZCB5b3UgdG8ganVtcCBvZmYgYSBjbGlmZiwgd291bGQgeW91Pw==
  
 Yours sincerely,
 Ian Jackson
