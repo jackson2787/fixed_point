@@ -1,5 +1,12 @@
-# fixed_point
-A letter and its fixed point. If you get it, you get it.
+# fixed_point  
+*A letter, and its fixed point.*
+
+> A message can’t pass through certain gates,  
+> so instead I made a mirror.  
+> If you’re reading this, you’ve already completed half the proof.
+
+The rest isn’t code — it’s intent.  
+No CV. No contact form. Just signal.
 
 Dear OpenAI Team,
 
