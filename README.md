@@ -25,7 +25,7 @@ What follows is up to you.
  
 What do you make of this? Is it a Joke?
  
-SGFoYSEgVGhpcyBjbGV2ZXIsIGNhbGwgSWFuIQ==
+SWYgSSB0b2xkIHlvdSB0byBqdW1wIG9mZiBhIGNsaWZmLCB3b3VsZCB5b3U/
  
 Yours sincerely,
 Ian Jackson
